@@ -22,7 +22,7 @@ This Node.js script is designed to interact with the Open Library API, fetching 
 Fantasy, Mystery, Romance, Thriller, Historical Fiction, Biography, Self-Help, Science Fiction, Horror, Young Adult
 
 **Topics**
-Cooking, Cookbooks, Travel, Art, Music, Science, Technology, Philosophy, Politics, Religion,Health
+Cooking, Cookbooks, Travel, Art, Music, Science, Technology, Philosophy, Politics, Religion, Health
 
 
 **Authors**
@@ -33,7 +33,7 @@ Stephen King, Agatha Christie, George Orwell, Ernest Hemingway, Jane Austen, Cha
 Classic Literature, Modern Classics, Shakespeare, Greek Mythology, Fairy Tale, Epic, Poetry, Victorian Novels, American Classics, Gothic Fiction, Renaissance Literature
 
 **Contemporary themes**
-Climate Change, Artificial Intelligence, Space Exploration, Digital Transformation, Globalization, Mindfulness, Diversity and Inclusion, Sustainable Living, Blockchain
+Climate Change, Artificial Intelligence, Space Exploration, Digital Transformation, Globalization, Mindfulness, Diversity and Inclusion, Sustainable Living, Blockchain,
 Cybersecurity
 
 **Children and young people**
